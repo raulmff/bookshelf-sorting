@@ -22,17 +22,13 @@ public class Book {
 	public int getId() {
 		return this.id;
 	}
-
 	public String getTitle() {
 		return this.title;
 	}
-
 	public String getAuthor() {
 		return this.author;
 	}
-
 	public int getEditionYear() {
 		return this.edition_year;
 	}
-
 }
