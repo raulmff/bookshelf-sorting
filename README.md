@@ -18,6 +18,9 @@ Agora, execute o programa conforme abaixo:
   java Main
 ```
 
+## Livros presentes para ordenação
+Os livros presentes no código são os passados no documento do desafio. Os livros podem ser modificados na classe [SortingServiceClient.java](https://github.com/raulmff/bookshelf-sorting/blob/master/src/SortingServiceClient.java).
+
 ## Configurando o serviço de ordenação
 Para configurar o serviço de ordenação basta abrir o arquivo "app.config" e editá-lo. A maneira que as regras para a ordenação devem ser escritas também está presente no próprio arquivo na forma de comentários. As regras devem ser escritas da seguinte forma:
 ```
